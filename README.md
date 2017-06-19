@@ -1,5 +1,7 @@
 
 How to disable my link
+
+:warning: Deprecated
  
 [![Build Status](https://travis-ci.org/ovh/angular-a-disabled.svg)](https://travis-ci.org/ovh/angular-a-disabled)
 
@@ -17,8 +19,13 @@ angular.module("myApp", ["angular-a-disabled"]);
  
 # Installation
 
-bower install ssh://git@github.com:ovh-ux/angular-a-disabled.git --save
- 
+## Bower
+
+    bower install ssh://git@github.com:ovh-ux/angular-a-disabled.git --save
+
+## NPM
+
+    npm install ssh://git@github.com:ovh-ux/angular-a-disabled.git --save
  
 ## Get the sources
  
@@ -31,6 +38,8 @@ bower install ssh://git@github.com:ovh-ux/angular-a-disabled.git --save
  
 You've developed a new cool feature ? Fixed an annoying bug ? We'd be happy
 to hear from you !
+
+Have a look in [CONTRIBUTING.md](https://github.com/ovh-ux/angular-a-disabled/blob/master/CONTRIBUTING.md)
  
 ## Run the tests
  
