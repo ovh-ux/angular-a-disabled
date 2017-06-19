@@ -4,6 +4,9 @@
     "description": "How to disable my link",
     "main": "./dist/angular-a-disabled.min.js",
     "repository": "git@github.com:ovh-ux/angular-a-disabled.git",
+    "scripts": {
+        "test": "grunt test"
+    },
     "devDependencies": {
         "grunt": "0.4.x",
         "grunt-autoprefixer": "~2.2.0",
