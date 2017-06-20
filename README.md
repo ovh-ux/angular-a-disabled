@@ -4,9 +4,7 @@
 
 How to disable my link
 
-![deprecated](https://img.shields.io/badge/status-deprecated-red.svg)
-
-[![Build Status](https://travis-ci.org/ovh/angular-a-disabled.svg)](https://travis-ci.org/ovh/angular-a-disabled)
+![deprecated](https://img.shields.io/badge/status-deprecated-red.svg) [![Build Status](https://travis-ci.org/ovh/angular-a-disabled.svg)](https://travis-ci.org/ovh/angular-a-disabled)
 
 ```javascript
 angular.module("myApp", ["angular-a-disabled"]);
