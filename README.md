@@ -1,5 +1,7 @@
 ![OVH component deprecated](githubBannerDeprecated.png)
 
+# ovh-angular-a-disabled
+
 How to disable my link
 
 :warning: Deprecated
