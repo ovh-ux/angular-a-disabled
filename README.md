@@ -4,7 +4,7 @@
 
 How to disable my link
 
-:warning: Deprecated
+![deprecated](https://img.shields.io/badge/status-deprecated-red.svg)
 
 [![Build Status](https://travis-ci.org/ovh/angular-a-disabled.svg)](https://travis-ci.org/ovh/angular-a-disabled)
 
