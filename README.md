@@ -4,10 +4,10 @@
 
 How to disable my link
 
-![deprecated](https://img.shields.io/badge/status-deprecated-red.svg) [![Build Status](https://travis-ci.org/ovh/angular-a-disabled.svg)](https://travis-ci.org/ovh/angular-a-disabled)
+![deprecated](https://img.shields.io/badge/status-deprecated-red.svg) [![Build Status](https://travis-ci.org/ovh-ux/ovh-angular-a-disabled.svg)](https://travis-ci.org/ovh-ux/ovh-angular-a-disabled)
 
 ```javascript
-angular.module("myApp", ["angular-a-disabled"]);
+angular.module("myApp", ["ovh-angular-a-disabled"]);
 ```
 
 ```html
@@ -22,17 +22,17 @@ angular.module("myApp", ["angular-a-disabled"]);
 
 ## Bower
 
-    bower install ssh://git@github.com:ovh-ux/angular-a-disabled.git --save
+    bower install ovh-angular-a-disabled --save
 
 ## NPM
 
-    npm install ssh://git@github.com:ovh-ux/angular-a-disabled.git --save
+    npm install ovh-angular-a-disabled --save
 
 ## Get the sources
 
 ```bash
-    git clone https://github.com/ovh/angular-a-disabled.git
-    cd angular-a-disabled
+    git clone https://github.com/ovh-ux/ovh-angular-a-disabled.git
+    cd ovh-angular-a-disabled
     npm install
     bower install
 ```
@@ -40,7 +40,7 @@ angular.module("myApp", ["angular-a-disabled"]);
 You've developed a new cool feature ? Fixed an annoying bug ? We'd be happy
 to hear from you !
 
-Have a look in [CONTRIBUTING.md](https://github.com/ovh-ux/angular-a-disabled/blob/master/CONTRIBUTING.md)
+Have a look in [CONTRIBUTING.md](https://github.com/ovh-ux/ovh-angular-a-disabled/blob/master/CONTRIBUTING.md)
 
 ## Run the tests
 
@@ -56,10 +56,10 @@ grunt docs
 
 # Related links
 
- * Contribute: https://github.com/ovh/angular-a-disabled
- * Report bugs: https://github.com/ovh/angular-a-disabled/issues
- * Get latest version: https://github.com/ovh-ux/angular-a-disabled
+ * Contribute: https://github.com/ovh-ux/ovh-angular-a-disabled
+ * Report bugs: https://github.com/ovh-ux/ovh-angular-a-disabled/issues
+ * Get latest version: https://github.com/ovh-ux/ovh-angular-a-disabled
 
 # License
 
-See https://github.com/ovh/angular-a-disabled/blob/master/LICENSE
+See https://github.com/ovh-ux/ovh-angular-a-disabled/blob/master/LICENSE
