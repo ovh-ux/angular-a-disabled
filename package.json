@@ -1,9 +1,9 @@
 {
-    "name": "angular-a-disabled",
-    "version": "0.0.2",
+    "name": "ovh-angular-a-disabled",
+    "version": "0.1.0",
     "description": "How to disable my link",
-    "main": "./dist/angular-a-disabled.min.js",
-    "repository": "git@github.com:ovh-ux/angular-a-disabled.git",
+    "main": "./dist/ovh-angular-a-disabled.min.js",
+    "repository": "git@github.com:ovh-ux/ovh-angular-a-disabled",
     "scripts": {
         "test": "grunt test"
     },

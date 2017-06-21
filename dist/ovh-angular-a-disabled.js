@@ -1,5 +1,3 @@
-angular.module('angular-a-disabled', []);
-
 angular.module('angular-a-disabled', [])
 .directive('aDisabled',
     function () {
@@ -31,3 +29,5 @@ angular.module('angular-a-disabled', [])
         };
     }
 );
+
+angular.module('angular-a-disabled', []);
