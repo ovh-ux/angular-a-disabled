@@ -22,11 +22,11 @@ angular.module("myApp", ["ovh-angular-a-disabled"]);
 
 ## Bower
 
-    bower install ssh://git@github.com:ovh-ux/ovh-angular-a-disabled.git --save
+    bower install ovh-angular-a-disabled --save
 
 ## NPM
 
-    npm install ssh://git@github.com:ovh-ux/ovh-angular-a-disabled.git --save
+    npm install ovh-angular-a-disabled --save
 
 ## Get the sources
 
