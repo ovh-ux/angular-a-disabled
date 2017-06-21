@@ -31,7 +31,7 @@ angular.module("myApp", ["ovh-angular-a-disabled"]);
 ## Get the sources
 
 ```bash
-    git clone https://github.com/ovh/ovh-angular-a-disabled.git
+    git clone https://github.com/ovh-ux/ovh-angular-a-disabled.git
     cd ovh-angular-a-disabled
     npm install
     bower install
