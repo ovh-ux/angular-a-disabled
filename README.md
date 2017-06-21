@@ -1,10 +1,12 @@
-![OVH component deprecated](githubBannerDeprecated.png)
-
 # ovh-angular-a-disabled
 
-How to disable my link
+![OVH component deprecated](githubBannerDeprecated.png)
 
 ![deprecated](https://img.shields.io/badge/status-deprecated-red.svg) [![Build Status](https://travis-ci.org/ovh-ux/ovh-angular-a-disabled.svg)](https://travis-ci.org/ovh-ux/ovh-angular-a-disabled)
+
+[![NPM](https://nodei.co/npm/ovh-angular-a-disabled.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/ovh-angular-a-disabled/)
+
+How to disable my link
 
 ```javascript
 angular.module("myApp", ["ovh-angular-a-disabled"]);
