@@ -1,1 +1,1 @@
-angular.module('angular-a-disabled', []);
+angular.module("ovh-angular-a-disabled", []);
