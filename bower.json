@@ -1,7 +1,7 @@
 {
   "name": "ovh-angular-a-disabled",
   "description": "How to disable my link",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./dist/ovh-angular-a-disabled.min.js",
   "ignore": [
     "components",
